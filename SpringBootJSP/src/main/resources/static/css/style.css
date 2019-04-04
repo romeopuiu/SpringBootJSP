@@ -1,0 +1,43 @@
+.main-header {
+    background: #333;
+    height: 84px;
+    padding: 20px 0;
+    top: 0;
+    position: sticky;
+    z-index: 997;
+}
+.logo-left {
+    float: left;
+    text-decoration: none;
+}
+.logo-left h1 {
+    color: blue;
+    font-size: 45px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+
+}
+.nav-meniu ul {
+    float: right;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+.nav-meniu ul li {
+    float: left;
+
+}
+.nav-meniu  li a {
+    text-decoration: none;
+    padding: 10px 8px;
+    color: white;
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+}
+.nav-meniu  li a:hover {
+color: red;
+}
